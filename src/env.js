@@ -1,9 +1,9 @@
 export const config = {
-    ENDPOINT: "https://v1.nocodeapi.com/betauser/uptime/dHmQOXeWbdNuJsII?monitors=784130459-784130462",
+    ENDPOINT: "https://v1.nocodeapi.com/kreicer/uptime/fqukxAIqFYIHmIfN?monitors=794850892",
 
-    title: "NoCodeAPI",
+    title: "Uptime",
 
-    website: "https://nocodeapi.com",
+    website: "https://stats.uptimerobot.com/9zg8ptRmLn",
 
     twitterHandle: "@nocodeapi",
     
